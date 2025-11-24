@@ -1,7 +1,20 @@
+<!-- MAIN HEADER SECTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=0AA6C6&center=true&vCenter=true&width=600&lines=Hello+I+am+Ashanna+%F0%9F%98%80;AI%2FML+Research+Engineer+%F0%9F%8E%AE;Designing+Tomorrow's+Systems+%F0%9F%A7%A9" alt="Typing SVG" />
+  <!-- LEFT: ROBOT -->
+  <img src="/mnt/data/200w.gif" alt="AI Robot" width="180" style="margin-right: 20px;" />
+
+  <!-- RIGHT: TYPING BANNER -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00B8D9&center=false&vCenter=true&width=600&lines=Hello+I+am+Ashanna+%F0%9F%98%80;AI%2FML+Research+Engineer+%F0%9F%8E%AE;Designing+Tomorrow's+Systems+%F0%9F%A7%A9" alt="Typing SVG" />
 </p>
 
+<!-- HOLOGRAM TEXT UNDER ROBOT -->
+<p align="center" style="margin-top:-10px;">
+  <span style="font-size:16px; color:#00E5FF; font-weight:600; text-shadow:0px 0px 8px #00E5FF;">
+    Intelligent Systems • Machine Learning • Automation Pipelines
+  </span>
+</p>
+
+<!-- BUTTON BAR -->
 <p align="center">
   <a href="Ashanna%20Narrie_resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0A84FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
