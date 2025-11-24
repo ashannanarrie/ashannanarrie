@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=0AA6C6&center=true&vCenter=true&width=600&lines=Hello+I+am+Ashanna+%F0%9F%98%80;AI%2FML+Research+Engineer+%F0%9F%8E%AE;Designing+Tomorrow's+Systems+%F0%9F%A7%A9" alt="Typing SVG" />
+</p>
 
 <!--
 **ashannanarrie/ashannanarrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
