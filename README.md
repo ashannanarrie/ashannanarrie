@@ -140,6 +140,10 @@ A structured environment for generating, organizing, and delivering research or 
 </tr>
 </table>
 
+## 🤖 Previous Research Experience
+
+- SURE Spring 2023 Research Fellow at Colorado State University ⤳ Used PyMOL to model lattice expansion and guest-binding sites
+
 ## 🔬 Research & Active Development
 
 - UCHealth ML Research ⤳ Clinical Machine Learning Exploration (Repo Coming Soon)
