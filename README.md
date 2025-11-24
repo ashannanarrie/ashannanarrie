@@ -35,25 +35,75 @@ I am Ashanna Narrie, an AI/ML Research Engineer focused on building intelligent 
 
 ---
 
-## 🧠 What Excites Me
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 What Excites Me
 
 - **AI & Neuroscience** ⤳ cognitive architectures, memory systems, RAG  
 - **Recursive Intelligence** ⤳ agentic loops, self-reflective models, meta-learning  
 - **Consciousness & Computation** ⤳ emergent reasoning & cognitive alignment  
 - **Cognitive Architecture** ⤳ internal representations & structured thought  
 
----
+</td>
+
+<td width="50%" valign="top">
+
+### 🚧 What I Am Building
+
+- **AI-Augmented Research Tools** ⤳ agentic workflows and intelligent helpers for accelerating tasks  
+- **Automation Engines** ⤳ systems that reduce manual effort, cognitive load, and operational friction  
+- **Interactive Systems & Games** ⤳ experimental environments that test reasoning, agency, and behavior  
+- **ML Simulation Spaces** ⤳ sandboxes for exploring models, recursion, and emergent dynamics  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🚧 What I am Building
+## 🚀 Featured Projects
 
-- **AI-Augmented Research Tools** ⤳  agentic workflows and intelligent helpers for accelerating tasks  
-- **Automation Engines** ⤳ systems that reduce manual effort, cognitive load, and operational friction
-- **Interactive Systems & Games** ⤳ small experimental environments that test reasoning, agency, and behavior  
-- **ML Simulation Spaces** ⤳ controlled sandboxes for exploring models, recursion, and emergent dynamics  
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🗂️ [SRT Cleaner Project](https://github.com/ashannanarrie/srt-cleaner-project)
+**Automated Accessibility Caption Cleaner**
+
+A lightweight CLI + script tool that automatically cleans, restructures,  
+and validates `.srt` subtitle files for accessibility workflows.
+
+**Tech Stack:**  
+`Python` `Regex` `Automation` `Accessibility`
+
+**Concept:**  
+- Removes formatting + timestamp errors  
+- Prepares `.srt` files for screen readers  
+- Replaces hours of manual QC with seconds of automation  
+
+</td>
+<td width="50%" valign="top">
+
+### 🚧 *Next Project Goes Here*
+**Title + Link Coming Soon**
+
+Add the second repo name, description, and tech stack here when ready.
+
+**Tech Stack:**  
+`To add`
+
+**Concept:**  
+- bullet  
+- bullet  
+- bullet  
+
+</td>
+</tr>
+</table>
 
 
 ---
