@@ -1,7 +1,3 @@
-<!-- ====== ROBOT ABOVE BANNER ====== -->
-<p align="center">
-  <img src="200w.gif" alt="AI Robot" width="180" />
-</p>
 
 <!-- ====== TYPING BANNER ====== -->
 <p align="center">
