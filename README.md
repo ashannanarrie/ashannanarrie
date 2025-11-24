@@ -27,16 +27,21 @@
   </a>
 </p>
 
-**ashannanarrie/ashannanarrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Ashanna Narrie, an AI/ML Research Engineer focused on building intelligent systems, automation pipelines, and structure-driven tools that make complex workflows simple, scalable, and human-centered.
+
+My interests live at the intersection of:
+
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🧩 **Systems design & workflow optimization**
+- 🧠 **Human-centered engineering**
+- 🔬 **Research, experimentation, and automation**
+
+I care deeply about **clarity**, **structure**, and **efficiency**, designing systems  
+that reduce friction, support learning, and empower real-world impact.
+
+
+---
