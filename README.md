@@ -53,10 +53,18 @@ I am Ashanna Narrie, an AI/ML Research Engineer focused on building intelligent 
 
 ### 🚧 What I Am Building
 
-- **AI-Augmented Research Tools** ⤳ agentic workflows and intelligent helpers for accelerating tasks  
-- **Automation Engines** ⤳ systems that reduce manual effort, cognitive load, and operational friction  
-- **Interactive Systems & Games** ⤳ experimental environments that test reasoning, agency, and behavior  
-- **ML Simulation Spaces** ⤳ sandboxes for exploring models, recursion, and emergent dynamics  
+          ┌──────────────────────┐
+          │  AI-Augmented Tools  │ - agentic workflows and intelligent helpers
+          └──────────┬───────────┘
+          ┌──────────────────────┐
+          │   Automation Engine  │ - reduces manual effort & cognitive load
+          └──────────┬───────────┘
+          ┌──────────────────────┐
+          │ Interactive Systems  │ - environments for reasoning & behavior
+          └──────────┬───────────┘
+          ┌──────────────────────┐
+          │ ML Simulation Space  │ - recursion & emergent model dynamics
+          └──────────┬───────────┘
 
 ## 🧪 Experimental Builds 
 
@@ -143,9 +151,21 @@ A structured environment for generating, organizing, and delivering research or 
 - Frameworks & AI ⤳ OpenAI API, Anthropic API
 - Development & Workflow ⤳ Git, VS Code, Obsidian, Notion, WSL
 
+## 🙌 Recognition 
+
+- Organization of American States (OAS) Scholarship
+- Math Modeling Competition (UWI)
+- Cayley Contest (University of Waterloo)
+- Last Mile Education Fund
+
 ## 🤝 Let’s Connect
 
-If you are interested in AI, neuroscience-inspired ML, automation tools, or interactive systems, I would love to connect.
+If you are interested in 
+- AI/neuroscience-inspired ML
+- Automation tools, or Interactive systems
+- Recursive Systems Design 
+
+I would love to connect!
 
 <!-- ====== BUTTON BAR ====== -->
 <p align="center">
@@ -160,5 +180,17 @@ If you are interested in AI, neuroscience-inspired ML, automation tools, or inte
   </a>
 </p>
 
- 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashannanarrie&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashannanarrie&layout=compact&theme=tokyonight" />
+</p>
+
+ <p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashannanarrie&theme=tokyonight&border_radius=5" />
+</p>
 
