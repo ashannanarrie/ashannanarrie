@@ -6,7 +6,7 @@
   <a href="Ashanna%20Narrie_resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0A84FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/ashanna-narrie-107a78313/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ashanna.narrie2002@gmail.com">
