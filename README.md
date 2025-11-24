@@ -5,7 +5,7 @@
 
 <!-- ====== TYPING BANNER ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00B8D9&center=true&vCenter=true&width=600&lines=Hello+I+am+Ashanna+%F0%9F%98%80;AI%2FML+Research+Engineer+%F0%9F%8E%AE;Designing+The+Future+%F0%9F%A7%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00B8D9&center=true&vCenter=true&width=600&lines=Hello+I+am+Ashanna+;AI%2FML+Research+Engineer;Designing+The+Future+" alt="Typing SVG" />
 </p>
 
 <!-- ====== HOLOGRAM TAGLINE ====== -->
@@ -29,19 +29,24 @@
 
 ---
 
-## About Me
+## 😀 About Me
 
-I am Ashanna Narrie, an AI/ML Research Engineer focused on building intelligent systems, automation pipelines, and structure-driven tools that make complex workflows simple, scalable, and human-centered.
+I am Ashanna Narrie, an AI/ML Research Engineer focused on building intelligent systems, automation pipelines, and structure-driven tools that make complex workflows simple, scalable, and human-centered. I am focused on AI, Neuroscience and Biomedical Applications. 
 
-My interests live at the intersection of:
+---
 
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🧩 **Systems design & workflow optimization**
-- 🧠 **Human-centered engineering**
-- 🔬 **Research, experimentation, and automation**
+## ✨ What Excites Me
 
-I care deeply about **clarity**, **structure**, and **efficiency**, designing systems  
-that reduce friction, support learning, and empower real-world impact.
+**AI & Neuroscience** ⤳ cognitive architectures, memory systems, RAG  
+**Recursive Intelligence** ⤳ agentic loops, self-reflective models, meta-learning  
+**Consciousness & Computation** ⤳ emergent reasoning & cognitive alignment  
+**Cognitive Architecture** ⤳ internal representations & structured thought  
+
+---
+
+
+---
+
 
 
 ---
