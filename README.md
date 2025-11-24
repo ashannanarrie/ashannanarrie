@@ -29,18 +29,29 @@
 
 ---
 
-## 😀 About Me
+## About Me
 
 I am Ashanna Narrie, an AI/ML Research Engineer focused on building intelligent systems, automation pipelines, and structure-driven tools that make complex workflows simple, scalable, and human-centered. I am focused on AI, Neuroscience and Biomedical Applications. 
 
 ---
 
-## ✨ What Excites Me
+## 🧠 What Excites Me
 
-**AI & Neuroscience** ⤳ cognitive architectures, memory systems, RAG  
-**Recursive Intelligence** ⤳ agentic loops, self-reflective models, meta-learning  
-**Consciousness & Computation** ⤳ emergent reasoning & cognitive alignment  
-**Cognitive Architecture** ⤳ internal representations & structured thought  
+- **AI & Neuroscience** ⤳ cognitive architectures, memory systems, RAG  
+- **Recursive Intelligence** ⤳ agentic loops, self-reflective models, meta-learning  
+- **Consciousness & Computation** ⤳ emergent reasoning & cognitive alignment  
+- **Cognitive Architecture** ⤳ internal representations & structured thought  
+
+---
+
+---
+
+## 🚧 What I am Building
+
+- **AI-Augmented Research Tools** ⤳  agentic workflows and intelligent helpers for accelerating tasks  
+- **Automation Engines** ⤳ systems that reduce manual effort, cognitive load, and operational friction
+- **Interactive Systems & Games** ⤳ small experimental environments that test reasoning, agency, and behavior  
+- **ML Simulation Spaces** ⤳ controlled sandboxes for exploring models, recursion, and emergent dynamics  
 
 ---
 
