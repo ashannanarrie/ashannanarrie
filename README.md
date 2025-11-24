@@ -190,7 +190,3 @@ I would love to connect!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashannanarrie&layout=compact&theme=tokyonight" />
 </p>
 
- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashannanarrie&theme=tokyonight&border_radius=5" />
-</p>
-
