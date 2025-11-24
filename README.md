@@ -138,3 +138,12 @@ A structured environment for generating, organizing, and delivering research or 
 </td>
 </tr>
 </table>
+
+## 🔬 Research & Active Development
+
+- UCHealth ML Research ⤳ Clinical Machine Learning Exploration (Repo Coming Soon)
+- Algoverse AI Academy ⤳ Foundations for Agentic ML Research (Repo Coming Soon)
+
+
+ 
+
