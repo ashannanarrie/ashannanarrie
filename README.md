@@ -65,49 +65,76 @@ I am Ashanna Narrie, an AI/ML Research Engineer focused on building intelligent 
 
 ---
 
-## 🚀 Featured Projects
+## 🧪 Experimental Builds 
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🗂️ [SRT Cleaner Project](https://github.com/ashannanarrie/srt-cleaner-project)
+### 🗂️ [Whisper Transcription Automation](https://github.com/ashannanarrie/srt-cleaner-project)
 **Automated Accessibility Caption Cleaner**
 
-A lightweight CLI + script tool that automatically cleans, restructures,  
-and validates `.srt` subtitle files for accessibility workflows.
+A lightweight Python tool for cleaning, rebuilding, and validating `.srt` caption files to reduce accessibility review time from hours to seconds.
 
 **Tech Stack:**  
 `Python` `Regex` `Automation` `Accessibility`
 
 **Concept:**  
-- Removes formatting + timestamp errors  
-- Prepares `.srt` files for screen readers  
-- Replaces hours of manual QC with seconds of automation  
+- Cleans timestamp + formatting errors  
+- Prepares `.srt` for screen readers  
+- Fully automated QC pipeline  
 
 </td>
 <td width="50%" valign="top">
 
-### 🚧 *Next Project Goes Here*
-**Title + Link Coming Soon**
+### 🎮 [Pacman Game Simulation](https://github.com/ashannanarrie/pacman)  
+**Interactive Systems & Game Logic**
 
-Add the second repo name, description, and tech stack here when ready.
+A browser-based environment built to explore game loops, collision mechanics, movement logic, and interactive behavior patterns.
 
 **Tech Stack:**  
-`To add`
+`JavaScript` `HTML Canvas` `Game Logic`  
 
 **Concept:**  
-- bullet  
-- bullet  
-- bullet  
+- Game loop + state management  
+- Collision + movement systems  
+- Interactive system design  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🕹️ [Parkour Game Simulation](https://github.com/ashannanarrie/daniel-game)  
+**Stick-Figure Parkour Simulation**
+
+A simple movement-based platformer featuring a stick-figure character with directional controls. Designed as an experiment in input handling, character physics, and lightweight movement systems.
+
+**Tech Stack:**  
+`JavaScript` `HTML Canvas` `Game Systems`
+
+**Concept:**  
+- Movement and input control  
+- Basic platform physics  
+- Stick-figure animation + logic  
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 [Presentation Automation](https://github.com/ashannanarrie/rah_presentation_env)  
+**Technical Presentation Generator**
+
+A structured environment for generating, organizing, and delivering research or presentation materials. Includes template scaffolding and reproducible setup for quick presentation builds.
+
+**Tech Stack:**  
+`Python` `Markdown` `Environment Setup`
+
+**Concept:**  
+- Automated presentation scaffolding  
+- Reproducible environment structure  
+- Clean, organized workflow for presentations  
 
 </td>
 </tr>
 </table>
-
-
----
-
-
-
----
