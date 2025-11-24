@@ -33,13 +33,6 @@
 
 I am Ashanna Narrie, an AI/ML Research Engineer focused on building intelligent systems, automation pipelines, and structure-driven tools that make complex workflows simple, scalable, and human-centered. I am focused on AI, Neuroscience and Biomedical Applications. 
 
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ### 🧠 What Excites Me
 
 - **AI & Neuroscience** ⤳ cognitive architectures, memory systems, RAG  
@@ -47,23 +40,12 @@ I am Ashanna Narrie, an AI/ML Research Engineer focused on building intelligent 
 - **Consciousness & Computation** ⤳ emergent reasoning & cognitive alignment  
 - **Cognitive Architecture** ⤳ internal representations & structured thought  
 
-</td>
-
-<td width="50%" valign="top">
-
 ### 🚧 What I Am Building
 
 - **AI-Augmented Research Tools** ⤳ agentic workflows and intelligent helpers for accelerating tasks  
 - **Automation Engines** ⤳ systems that reduce manual effort, cognitive load, and operational friction  
 - **Interactive Systems & Games** ⤳ experimental environments that test reasoning, agency, and behavior  
 - **ML Simulation Spaces** ⤳ sandboxes for exploring models, recursion, and emergent dynamics  
-
-</td>
-
-</tr>
-</table>
-
----
 
 ## 🧪 Experimental Builds 
 
@@ -144,6 +126,28 @@ A structured environment for generating, organizing, and delivering research or 
 - UCHealth ML Research ⤳ Clinical Machine Learning Exploration (Repo Coming Soon)
 - Algoverse AI Academy ⤳ Foundations for Agentic ML Research (Repo Coming Soon)
 
+## 🦾 Tech Stack
+
+- Languages ⤳ Python, R, MATLAB, HTML/CSS, JavaScript, Bash
+- Frameworks & AI ⤳ OpenAI API, Anthropic API
+- Development & Workflow ⤳ Git, VS Code, Obsidian, Notion, WSL
+
+## 🤝 Let’s Connect
+
+If you are interested in AI, neuroscience-inspired ML, automation tools, or interactive systems, I would love to connect.
+
+<!-- ====== BUTTON BAR ====== -->
+<p align="center">
+  <a href="Ashanna%20Narrie_resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-0A84FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashanna-narrie-107a78313/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ashanna.narrie2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF5A5F?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
  
 
