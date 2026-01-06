@@ -46,10 +46,16 @@ I am currently exploring applications across AI safety, governance, healthcare, 
 
 ### 🧠 What Excites Me
 
+I am excited by system level AI design that starts with identifying gaps in existing structures and works backward from a desired end state. My interests include cognitive architectures, memory systems, retrieval augmented generation, agentic and recursive intelligence, and emergent reasoning.
+
+At the core of my work is a focus on internal representations, structured thought, and architectural choices that enable reliable, adaptive, and human centered intelligent systems.
+
+My excitement includes: 
+
 - **AI & Neuroscience** ⤳ cognitive architectures, memory systems, RAG  
 - **Recursive Intelligence** ⤳ agentic loops, self-reflective models, meta-learning  
 - **Consciousness & Computation** ⤳ emergent reasoning & cognitive alignment  
-- **Cognitive Architecture** ⤳ internal representations & structured thought  
+- **Cognitive Architecture** ⤳ internal representations & structured thought
 
 ### 🚧 What I Am Building
 
