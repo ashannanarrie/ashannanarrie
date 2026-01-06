@@ -160,6 +160,7 @@ A structured environment for generating, organizing, and delivering research or 
 - Languages ⤳ Python, R, MATLAB, HTML/CSS, JavaScript, Bash
 - Frameworks & AI ⤳ OpenAI API, Anthropic API, Claude Code, Codex
 - Development & Workflow ⤳ Git, VS Code, Obsidian, Notion, WSL
+- Systems ⤳ Regulatory Documentation (cGMP, GDP, NGP)
 
 ## 🙌 Recognition 
 
