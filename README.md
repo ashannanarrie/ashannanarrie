@@ -180,19 +180,4 @@ I would love to connect!
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<details>
-  <summary>📈 View Stats</summary>
-
-  <br>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ashannanarrie&show_icons=true&theme=tokyonight" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashannanarrie&layout=compact&theme=tokyonight" />
-  </p>
-
-</details>
+## Thanks for Watching! 
