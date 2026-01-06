@@ -40,7 +40,9 @@
 
 ## About Me
 
-I am Ashanna Narrie, an AI/ML Research Engineer focused on building intelligent systems, automation pipelines, and structure-driven tools that make complex workflows simple, scalable, and human-centered. I am focused on AI, Neuroscience and Biomedical Applications. 
+I am Ashanna Narrie, an AI and machine learning research engineer focused on building intelligent systems, automation pipelines, and structure driven tools that address real world gaps at scale. My work is guided by identifying where AI can meaningfully augment human systems, improve access, and reduce friction in complex societal workflows.
+
+I am currently exploring applications across AI safety, governance, healthcare, accessibility, and decision support, with an emphasis on thoughtful system design, evaluation, and human centered outcomes.
 
 ### 🧠 What Excites Me
 
