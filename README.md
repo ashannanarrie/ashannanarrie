@@ -146,13 +146,13 @@ A structured environment for generating, organizing, and delivering research or 
 
 ## 🔬 Research & Active Development
 
-- UCHealth ML Research ⤳ Clinical Machine Learning Exploration (Repo Coming Soon)
-- Algoverse AI Research ⤳ Foundations for Agentic ML Research (Repo Coming Soon)
+- UCHealth ML Research & Colorado State University ⤳ Physics Informed Non-Invasive Blood Pressure Simulation in Animals (Repo Coming Soon)
+- Algoverse AI Research ⤳ Work revolving improvements in Mechanistic Interpretability in Large Language Models (Repo Coming Soon)
 
 ## 🦾 Tech Stack
 
 - Languages ⤳ Python, R, MATLAB, HTML/CSS, JavaScript, Bash
-- Frameworks & AI ⤳ OpenAI API, Anthropic API
+- Frameworks & AI ⤳ OpenAI API, Anthropic API, Claude Code, Codex
 - Development & Workflow ⤳ Git, VS Code, Obsidian, Notion, WSL
 
 ## 🙌 Recognition 
@@ -165,7 +165,7 @@ A structured environment for generating, organizing, and delivering research or 
 ## 🤝 Let’s Connect
 
 If you are interested in 
-- AI/neuroscience-inspired ML
+- AI & Machine Learning Applications
 - Automation tools, or Interactive systems
 - Recursive Systems Design 
 
