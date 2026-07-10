@@ -40,6 +40,8 @@
 | <sub>[NASS — Neural Attachment State System](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/nass-overview.md)</sub> | <sub>Closed-loop wearable detecting attachment/dysregulation states from HRV-first biometrics; pre-registered n=1 pilot</sub> |
 | <sub>BIOM 476 — Non-Invasive BP Monitoring for Animals</sub> | <sub>Physics-informed modeling research with Colorado State University — paper in progress</sub> |
 
+**Future Direction: A Lot of in-progress ideas!****
+
 ### Highlighted Features
 
 - <sub>[**OAS Scholarship — official results**](https://www.oas.org/en/scholarships/PAEC/2023/2023%20OAS%20-%20CSU-%20Result.pdf) — competitive international scholarship (OAS/CSU, 2023)</sub>
