@@ -16,6 +16,8 @@
 
 # Ashanna Narrie
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&vCenter=true&width=600&lines=Research-Oriented+Engineer;Risk%2C+Assurance+%26+Applied+AI+Systems;AI+Safety+%E2%80%94+Sycophancy+%26+Consumer+Protection;Psychological+Loops+as+ML+Variables;Biomedical+Modeling+%26+Accessibility+Automation" alt="Typing animation cycling through focus areas" />
+
 ```text
 ashanna@github ─────────────────────────────────────────────────────────────
 · Role: ............. Research-Oriented Engineer | Risk, Assurance & Applied AI
@@ -53,9 +55,11 @@ ashanna@github ─────────────────────�
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashannanarrie&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
+<img src="https://streak-stats.demolab.com?user=ashannanarrie&theme=github-dark-blue&hide_border=true" height="150" alt="Contribution streak" />
+
 ---
 
-## 🔬 Current Research — [Vault](https://github.com/ashannanarrie/Vault)
+## Current Research — [Vault](https://github.com/ashannanarrie/Vault)
 
 | Topic | One-liner |
 |---|---|
@@ -64,14 +68,14 @@ ashanna@github ─────────────────────�
 | [NASS — Neural Attachment State System](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/nass-overview.md) | Closed-loop wearable detecting attachment/dysregulation states from HRV-first biometrics; pre-registered n=1 pilot |
 | BIOM 476 — Non-Invasive BP Monitoring for Animals | Physics-informed modeling research with Colorado State University — paper in progress |
 
-## 🏆 Highlighted Features
+## Highlighted Features
 
-- 🎓 [**OAS Scholarship — official results**](https://www.oas.org/en/scholarships/PAEC/2023/2023%20OAS%20-%20CSU-%20Result.pdf) — competitive international scholarship (OAS/CSU, 2023)
-- 🧪 [**Snow Laboratory personnel, CSU**](https://www.engr.colostate.edu/~cdasnow/snowlab_personnel.shtml) — listed lab member; crystal-growth research presented at the Scott Undergraduate Research Symposium
-- 🦿 [**Range of Motion Project — 2023 Impact Report**](https://rompglobal.org/wp-content/uploads/2025/12/2023-Impact-Report.pdf) — prosthetics volunteer, Ecuador
-- 📚 [**CSEC SBA Samples (2019)**](https://hfccsba.yolasite.com/resources/CSEC%20SBA%20SAMPLES%202019.pdf) — early academic work selected as an exemplar
+- [**OAS Scholarship — official results**](https://www.oas.org/en/scholarships/PAEC/2023/2023%20OAS%20-%20CSU-%20Result.pdf) — competitive international scholarship (OAS/CSU, 2023)
+- [**Snow Laboratory personnel, CSU**](https://www.engr.colostate.edu/~cdasnow/snowlab_personnel.shtml) — listed lab member; crystal-growth research presented at the Scott Undergraduate Research Symposium
+- [**Range of Motion Project — 2023 Impact Report**](https://rompglobal.org/wp-content/uploads/2025/12/2023-Impact-Report.pdf) — prosthetics volunteer, Ecuador
+- [**CSEC SBA Samples (2019)**](https://hfccsba.yolasite.com/resources/CSEC%20SBA%20SAMPLES%202019.pdf) — early academic work selected as an exemplar
 
-## 🛠 Repositories
+## Repositories
 
 ```text
 · Repos ─────────────────────────────────────────────────────────────────────
@@ -89,7 +93,7 @@ ashanna@github ─────────────────────�
 ─────────────────────────────────────────────────────────────────────────────
 ```
 
-## 💼 Experience
+## Experience
 
 ```text
 · Timeline ──────────────────────────────────────────────────────────────────
@@ -104,6 +108,8 @@ ashanna@github ─────────────────────�
 ```
 
 Full detail on my resume · timeline on [LinkedIn](https://www.linkedin.com/in/ashanna-narrie-107a78313/)
+
+<img src="https://raw.githubusercontent.com/ashannanarrie/ashannanarrie/output/github-snake-dark.svg" alt="Contribution snake animation" />
 
 ---
 
