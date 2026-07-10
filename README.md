@@ -9,7 +9,7 @@
 </p>
 
 ```text
- ─────────────────────────────────────────────────────────────
+
 · Role: ......... Student & Researcher — Risk, Automation & Applied AI Systems
 · Location: ..... Maryland, USA
 · Education: .... B.S. Biomedical & Computer Engineering (CSU)
