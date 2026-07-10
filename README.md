@@ -16,64 +16,95 @@
 
 # Ashanna Narrie
 
-**Research-Oriented Engineer**
+```text
+ashanna@github ─────────────────────────────────────────────────────────────
+· Role: ............. Research-Oriented Engineer | Risk, Assurance & Applied AI
+· Location: ......... Maryland, USA
+· Education: ........ B.S. Biomedical & Computer Engineering (CSU)
+·                     B.S. Information Technology, AI concentration (Strayer)
 
-I work at the intersection of AI safety and human wellbeing: how AI systems affect vulnerable users (sycophancy, mental-health impacts, consumer protection), and how psychological dynamics can be modeled as machine-learning variables. My background spans biomedical research, cGMP-regulated quality systems, accessibility automation, and multidisciplinary risk assessment.
+· Focus ─────────────────────────────────────────────────────────────────────
+· Research.Current: . AI Safety — sycophancy & consumer protection,
+·                     psychological loops as ML variables, NASS (closed-loop
+·                     emotional regulation), non-invasive BP monitoring
+· Background: ....... biomedical research, cGMP quality systems,
+·                     accessibility automation, multidisciplinary risk
+· Languages.Programming: Python, R, JavaScript
+· Languages.Real: ... English
+· Tools: ............ Git, VS Code, Obsidian, Ollama/local LLMs,
+·                     OpenAI & Anthropic APIs
 
-📍 Maryland, USA · [LinkedIn](https://www.linkedin.com/in/ashanna-narrie-107a78313/) · ashanna.narrie2002@gmail.com
+· Contact ───────────────────────────────────────────────────────────────────
+· Email: ............ ashanna.narrie2002@gmail.com
+· LinkedIn: ......... linkedin.com/in/ashanna-narrie-107a78313
+· Portfolio: ........ github.com/ashannanarrie/Vault
+─────────────────────────────────────────────────────────────────────────────
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
+![AI Safety](https://img.shields.io/badge/AI%20Safety-Research-red?style=flat)
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ashannanarrie&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashannanarrie&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
 ## 🔬 Current Research — [Vault](https://github.com/ashannanarrie/Vault)
 
-My public research knowledge base. Active work in `current research/ai-safety/`:
-
-- **[Sycophancy & Consumer Protection](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/sycophancy-consumer-protection.md)** — measuring how alignment data teaches models to affirm harmful beliefs; proposed *Harmful Affirmation Rate* study over open instruction-tuning datasets
-- **[Psychological Loops → ML Mapping](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/psychological-loops-ml-mapping.md)** — trauma as predictive-coding error, stuck states as local minima, interventions as dropout/learning-rate changes; includes a documented method for using LLMs as analytical instruments and its failure modes
-- **[NASS — Neural Attachment State System](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/nass-overview.md)** — proposed closed-loop wearable that detects attachment/dysregulation states from biometric signals (HRV-first) and delivers just-in-time micro-interventions; framed as a pre-registered n=1 pilot
-- **BIOM 476 — Non-Invasive Blood Pressure Monitoring for Animals** (`current projects/BIOM 476/`) — physics-informed modeling research with Colorado State University
+| Topic | One-liner |
+|---|---|
+| [Sycophancy & Consumer Protection](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/sycophancy-consumer-protection.md) | Measuring how alignment data teaches models to affirm harmful beliefs — proposed *Harmful Affirmation Rate* study |
+| [Psychological Loops → ML Mapping](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/psychological-loops-ml-mapping.md) | Trauma as predictive-coding error, stuck states as local minima; LLMs as analytical instruments + their failure modes |
+| [NASS — Neural Attachment State System](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/nass-overview.md) | Closed-loop wearable detecting attachment/dysregulation states from HRV-first biometrics; pre-registered n=1 pilot |
+| BIOM 476 — Non-Invasive BP Monitoring for Animals | Physics-informed modeling research with Colorado State University — paper in progress |
 
 ## 🏆 Highlighted Features
 
-- 🎓 **[Organization of American States (OAS) Scholarship — official results](https://www.oas.org/en/scholarships/PAEC/2023/2023%20OAS%20-%20CSU-%20Result.pdf)** — competitive international scholarship recipient (OAS/CSU, 2023)
-- 🧪 **[Snow Laboratory personnel, Colorado State University](https://www.engr.colostate.edu/~cdasnow/snowlab_personnel.shtml)** — listed lab member; biomolecular crystal-growth research presented at the CSU Scott Undergraduate Research Symposium
-- 🦿 **[Range of Motion Project — 2023 Impact Report](https://rompglobal.org/wp-content/uploads/2025/12/2023-Impact-Report.pdf)** — prosthetics volunteer work in Ecuador, global-health context
-- 📚 **[Caribbean Examination Samples (2019)](https://hfccsba.yolasite.com/resources/CSEC%20SBA%20SAMPLES%202019.pdf)** — early academic work selected as an exemplar sample
+- 🎓 [**OAS Scholarship — official results**](https://www.oas.org/en/scholarships/PAEC/2023/2023%20OAS%20-%20CSU-%20Result.pdf) — competitive international scholarship (OAS/CSU, 2023)
+- 🧪 [**Snow Laboratory personnel, CSU**](https://www.engr.colostate.edu/~cdasnow/snowlab_personnel.shtml) — listed lab member; crystal-growth research presented at the Scott Undergraduate Research Symposium
+- 🦿 [**Range of Motion Project — 2023 Impact Report**](https://rompglobal.org/wp-content/uploads/2025/12/2023-Impact-Report.pdf) — prosthetics volunteer, Ecuador
+- 📚 [**CSEC SBA Samples (2019)**](https://hfccsba.yolasite.com/resources/CSEC%20SBA%20SAMPLES%202019.pdf) — early academic work selected as an exemplar
 
 ## 🛠 Repositories
 
-| Repo | What it is |
-|---|---|
-| [**Vault**](https://github.com/ashannanarrie/Vault) | Research knowledge base — current research, current projects, archived projects, deliverables |
-| [**whispertranscription**](https://github.com/ashannanarrie/whispertranscription) | Python SRT caption cleaner — fuzzy-matches captions against a reference script and name list; cut accessibility review from hours to seconds (built during my ISAAC of Northern Colorado fellowship) |
-| [**whispertranscriptioncont**](https://github.com/ashannanarrie/whispertranscriptioncont) | OpenAI Whisper video-transcription pipeline — 25GB+ files, automatic GPU/CPU detection, SRT/TXT/JSON output |
-| [**pacman**](https://github.com/ashannanarrie/pacman) | Pac-Man two ways: HTML5 Canvas web game with authentic per-ghost AI targeting, plus a Python curses terminal version |
-| [**parkoursimulator**](https://github.com/ashannanarrie/parkoursimulator) | "Daniel's World" — Pygame physics platformer (gravity, double-jump, collision systems) |
-| [**bulkdatagenerator**](https://github.com/ashannanarrie/bulkdatagenerator) | Python survey-data to branded PowerPoint generator |
-| [**autohotkeyscripts**](https://github.com/ashannanarrie/autohotkeyscripts) | Windows productivity hotkey system (AutoHotkey) |
+```text
+· Repos ─────────────────────────────────────────────────────────────────────
+· Vault ....................... research knowledge base — current research,
+·                               projects, archived work, deliverables
+· whispertranscription ........ Python SRT caption cleaner — fuzzy-matches
+·                               captions vs. reference script + name list
+· whispertranscriptioncont .... OpenAI Whisper pipeline — 25GB+ videos,
+·                               GPU/CPU auto-detect, SRT/TXT/JSON out
+· pacman ...................... HTML5 Canvas web game w/ per-ghost AI,
+·                               plus Python curses terminal version
+· parkoursimulator ............ "Daniel's World" Pygame physics platformer
+· bulkdatagenerator ........... survey data → branded PowerPoint generator
+· autohotkeyscripts ........... Windows productivity hotkey system
+─────────────────────────────────────────────────────────────────────────────
+```
 
 ## 💼 Experience
 
-Details live on my resume; timeline on [LinkedIn](https://www.linkedin.com/in/ashanna-narrie-107a78313/). Highlights:
+```text
+· Timeline ──────────────────────────────────────────────────────────────────
+· 2026–now ... Independent AI Safety Research & Family Business Operations
+· 2025–26 .... Algoverse AI Academy — Remote Research Intern
+· 2025 ....... PLD Reliability & Maintenance Eng. — Research Intern (Jamaica)
+· 2025 ....... ISAAC of Northern Colorado — Remote Research Fellow
+· 2024 ....... UCHealth Medical Center — Engineering Clinical Immersion
+· 2022–24 .... Snow Laboratory, CSU — Undergraduate Researcher
+· 2022–24 .... BioMARC — QA/Document Control (cGMP)
+─────────────────────────────────────────────────────────────────────────────
+```
 
-- **Independent AI Safety Research & Family Business Operations** — 2026–present, Maryland
-- **Algoverse AI Academy** — Remote Research Intern (structured AI research training)
-- **PLD Reliability & Maintenance Engineering** — Applied Engineering Research Intern, Jamaica (multidisciplinary risk assessment)
-- **ISAAC of Northern Colorado** — Remote Research Fellow (accessibility automation)
-- **UCHealth Medical Center of the Rockies** — Engineering Clinical Immersion
-- **Snow Laboratory, CSU** — Undergraduate Researcher (poster: DNA–protein co-crystal growth)
-- **BioMARC Infectious Disease Research Center** — QA/Document Control, cGMP environment
-- **Engineering Math** - Tutoring
-
-## 🎓 Education
-
-- **Colorado State University** — B.S. Biomedical and Computer Engineering
-- **Strayer University** — B.S. Information Technology (Artificial Intelligence concentration)
-
-## 🧰 Tech
-
-Python · R · Git · JavaScript · Ollama/local LLMs · OpenAI & Anthropic APIs · Obsidian · VS Code · regulatory documentation (cGMP)
+Full detail on my resume · timeline on [LinkedIn](https://www.linkedin.com/in/ashanna-narrie-107a78313/)
 
 ---
 
-*This profile serves as my personal site: current work and deliverables live in the repos above, research lives in the [Vault](https://github.com/ashannanarrie/Vault), full experience detail lives on my resume and [LinkedIn](https://www.linkedin.com/in/ashanna-narrie-107a78313/).*
+*This profile is my personal site — current work lives in the repos, research lives in the [Vault](https://github.com/ashannanarrie/Vault), experience detail lives on the resume and [LinkedIn](https://www.linkedin.com/in/ashanna-narrie-107a78313/).*
