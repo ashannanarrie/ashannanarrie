@@ -1,44 +1,43 @@
-# Ashanna Narrie
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashannanarrie/ashannanarrie/main/assets/spider.svg" alt="Spider bobbing on its web" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&vCenter=true&width=600&lines=Research-Oriented+Engineer;Risk%2C+Assurance+%26+Applied+AI+Systems;AI+Safety+%E2%80%94+Sycophancy+%26+Consumer+Protection;Psychological+Loops+as+ML+Variables;Biomedical+Modeling+%26+Accessibility+Automation" alt="Typing animation cycling through focus areas" />
+<h1 align="center">Ashanna Narrie</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&vCenter=true&center=true&width=700&lines=AI+Safety+%E2%80%94+Sycophancy+%26+Consumer+Protection;Psychological+Loops+as+ML+Variables;Biomedical+Modeling+%26+Accessibility+Automation;Risk%2C+Assurance+%26+Applied+AI+Systems" alt="Typing animation cycling through focus areas" />
+</p>
 
 ```text
-  \  |  /            ashanna@github ─────────────────────────────────────────
-─ ─ + ─ ─ ─          · Role: ........ Research-Oriented Engineer
-  / ⁄|\ \                            Risk, Assurance & Applied AI Systems
- / ⁄ | \  \          · Location: .... Maryland, USA
-/ ⁄  |  \  \         · Education: ... B.S. Biomedical & Computer Eng. (CSU)
-  ⁄  |   \                           B.S. IT, AI concentration (Strayer)
-     🕷
-                     · Focus ────────────────────────────────────────────────
-                     · Research: .... AI Safety — sycophancy & consumer
-                                      protection, psychological loops as ML
-                                      variables, NASS closed-loop regulation,
-                                      non-invasive BP monitoring
-                     · Background: .. biomedical research, cGMP quality
-                                      systems, accessibility automation,
-                                      multidisciplinary risk assessment
-                     · Languages: ... Python, R, JavaScript
-                     · Tools: ....... Git, VS Code, Obsidian, Ollama,
-                                      OpenAI & Anthropic APIs
+ashanna@github ─────────────────────────────────────────────────────────────
+· Role: ......... Student & Researcher — Risk, Automation & Applied AI Systems
+· Location: ..... Maryland, USA
+· Education: .... B.S. Biomedical & Computer Engineering (CSU)
+·                 B.S. Information Technology, AI concentration (Strayer)
 
-                     · Contact ──────────────────────────────────────────────
-                     · Email: ....... ashanna.narrie2002@gmail.com
-                     · LinkedIn: .... linkedin.com/in/ashanna-narrie-107a78313
-                     · Portfolio: ... github.com/ashannanarrie/Vault
+· Focus ─────────────────────────────────────────────────────────────────────
+· Research: ..... AI Safety — sycophancy & consumer protection,
+·                 psychological loops as ML variables, NASS closed-loop
+·                 regulation, non-invasive BP monitoring
+· Background: ... biomedical research, cGMP quality systems,
+·                 accessibility automation, multidisciplinary risk assessment
+· Languages: .... Python, R, JavaScript
+· Tools: ........ Git, VS Code, Obsidian, Ollama, OpenAI & Anthropic APIs
+
+· Contact ───────────────────────────────────────────────────────────────────
+· Email: ........ ashanna.narrie2002@gmail.com
+· LinkedIn: ..... linkedin.com/in/ashanna-narrie-107a78313
+· Portfolio: .... github.com/ashannanarrie/Vault
 ─────────────────────────────────────────────────────────────────────────────
 ```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
-![AI Safety](https://img.shields.io/badge/AI%20Safety-Research-red?style=flat)
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ashannanarrie&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashannanarrie&layout=compact&theme=github_dark&hide_border=true" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Safety-Research-red?style=flat" />
 </p>
 
 ---
@@ -62,7 +61,7 @@
 ### Repositories
 
 ```text
-· Web ───────────────────────────────────────────────────────────────────────
+· Repos ─────────────────────────────────────────────────────────────────────
 · Vault ....................... research knowledge base — current research,
 ·                               projects, archived work, deliverables
 · whispertranscription ........ Python SRT caption cleaner — fuzzy-matches
@@ -91,15 +90,11 @@
 ─────────────────────────────────────────────────────────────────────────────
 ```
 
-Full detail on my resume · timeline on [LinkedIn](https://www.linkedin.com/in/ashanna-narrie-107a78313/)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashannanarrie/ashannanarrie/main/assets/spider.svg" alt="Spider bobbing on its web" />
-</p>
+<p align="center">Full detail on my resume · timeline on <a href="https://www.linkedin.com/in/ashanna-narrie-107a78313/">LinkedIn</a></p>
 
 ---
 
-*This profile is my personal site — current work lives in the repos, research lives in the [Vault](https://github.com/ashannanarrie/Vault), experience detail lives on the resume and [LinkedIn](https://www.linkedin.com/in/ashanna-narrie-107a78313/).*
+<p align="center"><sub>This profile is my personal site — current work lives in the repos, research lives in the <a href="https://github.com/ashannanarrie/Vault">Vault</a>, experience detail lives on the resume and <a href="https://www.linkedin.com/in/ashanna-narrie-107a78313/">LinkedIn</a>.</sub></p>
 
 <pre>
            .-'''-.
