@@ -31,17 +31,6 @@
 ─────────────────────────────────────────────────────────────────────────────
 ```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Safety-Research-red?style=flat" />
-</p>
-
----
-
 ### Current Research — [Vault](https://github.com/ashannanarrie/Vault)
 
 | Topic | One-liner |
@@ -97,7 +86,7 @@
 <p align="center"><sub>This profile is my personal site — current work lives in the repos, research lives in the <a href="https://github.com/ashannanarrie/Vault">Vault</a>, experience detail lives on the resume and <a href="https://www.linkedin.com/in/ashanna-narrie-107a78313/">LinkedIn</a>.</sub></p>
 
 <pre>
-           .-'''-.
+       .-'''-.
         .-'       `-.
       .' --      --   `. 
      /   ●       ●     |
