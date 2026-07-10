@@ -31,7 +31,7 @@ My public research knowledge base. Active work in `current research/ai-safety/`:
 - **[Sycophancy & Consumer Protection](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/sycophancy-consumer-protection.md)** — measuring how alignment data teaches models to affirm harmful beliefs; proposed *Harmful Affirmation Rate* study over open instruction-tuning datasets
 - **[Psychological Loops → ML Mapping](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/psychological-loops-ml-mapping.md)** — trauma as predictive-coding error, stuck states as local minima, interventions as dropout/learning-rate changes; includes a documented method for using LLMs as analytical instruments and its failure modes
 - **[NASS — Neural Attachment State System](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/nass-overview.md)** — proposed closed-loop wearable that detects attachment/dysregulation states from biometric signals (HRV-first) and delivers just-in-time micro-interventions; framed as a pre-registered n=1 pilot
-- **BIOM 476 — Non-Invasive Blood Pressure Monitoring for Animals** (`current projects/BIOM 476/`) — physics-informed modeling research with Colorado State University; paper in progress
+- **BIOM 476 — Non-Invasive Blood Pressure Monitoring for Animals** (`current projects/BIOM 476/`) — physics-informed modeling research with Colorado State University
 
 ## 🏆 Highlighted Features
 
@@ -49,7 +49,7 @@ My public research knowledge base. Active work in `current research/ai-safety/`:
 | [**whispertranscriptioncont**](https://github.com/ashannanarrie/whispertranscriptioncont) | OpenAI Whisper video-transcription pipeline — 25GB+ files, automatic GPU/CPU detection, SRT/TXT/JSON output |
 | [**pacman**](https://github.com/ashannanarrie/pacman) | Pac-Man two ways: HTML5 Canvas web game with authentic per-ghost AI targeting, plus a Python curses terminal version |
 | [**parkoursimulator**](https://github.com/ashannanarrie/parkoursimulator) | "Daniel's World" — Pygame physics platformer (gravity, double-jump, collision systems) |
-| [**bulkdatagenerator**](https://github.com/ashannanarrie/bulkdatagenerator) | Python survey-data → branded PowerPoint generator |
+| [**bulkdatagenerator**](https://github.com/ashannanarrie/bulkdatagenerator) | Python survey-data to branded PowerPoint generator |
 | [**autohotkeyscripts**](https://github.com/ashannanarrie/autohotkeyscripts) | Windows productivity hotkey system (AutoHotkey) |
 
 ## 💼 Experience
