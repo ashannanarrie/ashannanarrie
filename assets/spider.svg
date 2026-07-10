@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230">
+  <g stroke="#8b949e" stroke-width="1" fill="none" opacity="0.55">
+    <path d="M0,0 L120,118"/><path d="M0,0 L190,62"/><path d="M0,0 L60,170"/><path d="M0,0 L225,20"/>
+    <path d="M28,64 Q56,52 74,24"/><path d="M48,110 Q96,88 128,42"/><path d="M62,148 Q130,120 172,56"/>
+    <path d="M760,0 L640,118"/><path d="M760,0 L570,62"/><path d="M760,0 L700,170"/><path d="M760,0 L535,20"/>
+    <path d="M732,64 Q704,52 686,24"/><path d="M712,110 Q664,88 632,42"/><path d="M698,148 Q630,120 588,56"/>
+  </g>
+  <line x1="380" y1="0" x2="380" y2="92" stroke="#8b949e" stroke-width="1.2">
+    <animate attributeName="y2" values="92;132;92" dur="5s" repeatCount="indefinite"
+             calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+  </line>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 40;0 0" dur="5s"
+                      repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    <g stroke="#8b949e" stroke-width="2" fill="none" stroke-linecap="round">
+      <path d="M366,104 q-16,-8 -24,-20"/><path d="M366,110 q-18,-2 -30,-10"/>
+      <path d="M366,116 q-18,4 -30,14"/><path d="M368,121 q-14,10 -18,24"/>
+      <path d="M394,104 q16,-8 24,-20"/><path d="M394,110 q18,-2 30,-10"/>
+      <path d="M394,116 q18,4 30,14"/><path d="M392,121 q14,10 18,24"/>
+    </g>
+    <circle cx="380" cy="98" r="7" fill="#8b949e"/>
+    <ellipse cx="380" cy="117" rx="11" ry="14" fill="#8b949e"/>
+    <circle cx="377" cy="96" r="1.6" fill="#0d1117"/>
+    <circle cx="383" cy="96" r="1.6" fill="#0d1117"/>
+  </g>
+</svg>
