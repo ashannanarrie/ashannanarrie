@@ -76,7 +76,7 @@
 · 2024 ....... UCHealth Medical Center — Engineering Clinical Immersion
 · 2022–24 .... Snow Laboratory, CSU — Undergraduate Researcher
 · 2022–24 .... BioMARC — QA/Document Control (cGMP)
-. 2022 .... Engineering Math
+. 2022 ....... Engineering Math
 ─────────────────────────────────────────────────────────────────────────────
 ```
 
