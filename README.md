@@ -76,6 +76,7 @@
 · 2024 ....... UCHealth Medical Center — Engineering Clinical Immersion
 · 2022–24 .... Snow Laboratory, CSU — Undergraduate Researcher
 · 2022–24 .... BioMARC — QA/Document Control (cGMP)
+. 2022 .... Engineering Math
 ─────────────────────────────────────────────────────────────────────────────
 ```
 
@@ -85,15 +86,15 @@
 
 <p align="center"><sub>This profile is my personal site — current work lives in the repos, research lives in the <a href="https://github.com/ashannanarrie/Vault">Vault</a>, experience detail lives on the resume and <a href="https://www.linkedin.com/in/ashanna-narrie-107a78313/">LinkedIn</a>.</sub></p>
 
+<div align="center">
 <pre>
-       .-'''-.
-        .-'       `-.
-      .' --      --   `. 
-     /   ●       ●     |
-    |     -----        |
-     \   \_____/      /
-      `.           .' 
-        `-._____.-'
+     .-'''-.
+   .-'      '-.
+  .' --    -- '.
+ /  •      •    |
+|     -----     |
+ \   \____/    /
+  '.          .'
+    '-.____.-'
 </pre>
-
 </div>
