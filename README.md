@@ -59,21 +59,21 @@ ashanna@github ─────────────────────�
 
 ---
 
-## Current Research — [Vault](https://github.com/ashannanarrie/Vault)
+### Current Research — [Vault](https://github.com/ashannanarrie/Vault)
 
 | Topic | One-liner |
 |---|---|
-| [Sycophancy & Consumer Protection](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/sycophancy-consumer-protection.md) | Measuring how alignment data teaches models to affirm harmful beliefs — proposed *Harmful Affirmation Rate* study |
-| [Psychological Loops → ML Mapping](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/psychological-loops-ml-mapping.md) | Trauma as predictive-coding error, stuck states as local minima; LLMs as analytical instruments + their failure modes |
-| [NASS — Neural Attachment State System](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/nass-overview.md) | Closed-loop wearable detecting attachment/dysregulation states from HRV-first biometrics; pre-registered n=1 pilot |
-| BIOM 476 — Non-Invasive BP Monitoring for Animals | Physics-informed modeling research with Colorado State University — paper in progress |
+| <sub>[Sycophancy & Consumer Protection](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/sycophancy-consumer-protection.md)</sub> | <sub>Measuring how alignment data teaches models to affirm harmful beliefs — proposed *Harmful Affirmation Rate* study</sub> |
+| <sub>[Psychological Loops → ML Mapping](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/psychological-loops-ml-mapping.md)</sub> | <sub>Trauma as predictive-coding error, stuck states as local minima; LLMs as analytical instruments + their failure modes</sub> |
+| <sub>[NASS — Neural Attachment State System](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/nass-overview.md)</sub> | <sub>Closed-loop wearable detecting attachment/dysregulation states from HRV-first biometrics; pre-registered n=1 pilot</sub> |
+| <sub>BIOM 476 — Non-Invasive BP Monitoring for Animals</sub> | <sub>Physics-informed modeling research with Colorado State University — paper in progress</sub> |
 
-## Highlighted Features
+### Highlighted Features
 
-- [**OAS Scholarship — official results**](https://www.oas.org/en/scholarships/PAEC/2023/2023%20OAS%20-%20CSU-%20Result.pdf) — competitive international scholarship (OAS/CSU, 2023)
-- [**Snow Laboratory personnel, CSU**](https://www.engr.colostate.edu/~cdasnow/snowlab_personnel.shtml) — listed lab member; crystal-growth research presented at the Scott Undergraduate Research Symposium
-- [**Range of Motion Project — 2023 Impact Report**](https://rompglobal.org/wp-content/uploads/2025/12/2023-Impact-Report.pdf) — prosthetics volunteer, Ecuador
-- [**CSEC SBA Samples (2019)**](https://hfccsba.yolasite.com/resources/CSEC%20SBA%20SAMPLES%202019.pdf) — early academic work selected as an exemplar
+- <sub>[**OAS Scholarship — official results**](https://www.oas.org/en/scholarships/PAEC/2023/2023%20OAS%20-%20CSU-%20Result.pdf) — competitive international scholarship (OAS/CSU, 2023)</sub>
+- <sub>[**Snow Laboratory personnel, CSU**](https://www.engr.colostate.edu/~cdasnow/snowlab_personnel.shtml) — listed lab member; crystal-growth research presented at the Scott Undergraduate Research Symposium</sub>
+- <sub>[**Range of Motion Project — 2023 Impact Report**](https://rompglobal.org/wp-content/uploads/2025/12/2023-Impact-Report.pdf) — prosthetics volunteer, Ecuador</sub>
+- <sub>[**CSEC SBA Samples (2019)**](https://hfccsba.yolasite.com/resources/CSEC%20SBA%20SAMPLES%202019.pdf) — early academic work selected as an exemplar</sub>
 
 ## Repositories
 
