@@ -71,7 +71,7 @@
 
 ```text
 · Timeline ──────────────────────────────────────────────────────────────────
-· 2026–now ... Independent AI Safety Research & Business Operations
+· 2026–now ... AI Safety Research & Business Operations
 · 2025–26 .... Algoverse AI Academy — Remote Research Intern
 · 2025 ....... PLD Reliability & Maintenance Eng. — Research Intern (Jamaica)
 · 2025 ....... ISAAC of Northern Colorado — Remote Research Fellow
