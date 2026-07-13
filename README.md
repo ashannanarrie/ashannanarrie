@@ -5,7 +5,7 @@
 <h1 align="center">Ashanna Narrie</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&vCenter=true&center=true&width=700&lines=AI+Safety+%E2%80%94+Sycophancy+%26+Consumer+Protection;Psychological+Loops+as+ML+Variables;Biomedical+Modeling+%26+Accessibility+Automation;Risk%2C+Assurance+%26+Applied+AI+Systems" alt="Typing animation cycling through focus areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&vCenter=true&center=true&width=700&lines=AI+Safety+-+Sycophancy+%26+Consumer+Protection;Psychological+Loops+as+ML+Variables;Biomedical+Modeling+%26+Accessibility+Automation;Risk%2C+Assurance+%26+Applied+AI+Systems" alt="Typing animation cycling through focus areas" />
 </p>
 
 ```text
@@ -51,12 +51,10 @@
 
 ### Highlighted Features
 
-```text
-· OAS Scholarship - official results - competitive international scholarship (OAS/CSU, 2023)
-· Snow Laboratory personnel, CSU - listed lab member; crystal-growth research presented at the Scott Undergraduate Research Symposium
-· Range of Motion Project - 2023 Impact Report - prosthetics volunteer, Ecuador
-· CSEC SBA Samples (2019) - early academic work selected as an exemplar
-```
+* [**OAS Scholarship - official results**](https://www.oas.org/en/scholarships/PAEC/2023/2023%20OAS%20-%20CSU-%20Result.pdf) - competitive international scholarship (OAS/CSU, 2023)
+* [**Snow Laboratory personnel, CSU**](https://www.engr.colostate.edu/~cdasnow/snowlab_personnel.shtml) - listed lab member; crystal-growth research presented at the Scott Undergraduate Research Symposium
+* [**Range of Motion Project - 2023 Impact Report**](https://rompglobal.org/wp-content/uploads/2025/12/2023-Impact-Report.pdf) - prosthetics volunteer, Ecuador
+* [**CSEC SBA Samples (2019)**](https://hfccsba.yolasite.com/resources/CSEC%20SBA%20SAMPLES%202019.pdf) - early academic work selected as an exemplar
 
 ### Repositories
 
