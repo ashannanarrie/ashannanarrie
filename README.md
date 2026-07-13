@@ -10,12 +10,12 @@
 
 ```text
 
-· Role: ......... Student & Researcher — Risk, Automation & Applied AI Systems
+· Role: ......... Student & Researcher - Risk, Automation & Applied AI Systems
 · Location: ..... Maryland, USA
 · Education: .... B.S. Biomedical & Computer Engineering (CSU)
 ·                 B.S. Information Technology, AI concentration (Strayer)
 
-· Focus ─────────────────────────────────────────────────────────────────────
+· Focus ---------------------------------------------------------------------
 · Research: ..... AI Safety: sycophancy & consumer protection,
 ·                 psychological loops as ML variables, NASS closed-loop
 ·                 regulation, non-invasive BP monitoring
@@ -24,11 +24,11 @@
 · Languages: .... Python, R, JavaScript
 · Tools: ........ Git, VS Code, Obsidian, Ollama, OpenAI & Anthropic APIs
 
-· Contact ───────────────────────────────────────────────────────────────────
+· Contact -------------------------------------------------------------------
 · Email: ........ ashanna.narrie2002@gmail.com
 · LinkedIn: ..... linkedin.com/in/ashanna-narrie-107a78313
 · Portfolio: .... github.com/ashannanarrie/Vault
-─────────────────────────────────────────────────────────────────────────────
+---------------------------------------------------------------------
 ```
 
 ### Current Research - [Vault](https://github.com/ashannanarrie/Vault)
@@ -37,10 +37,10 @@
 · Sycophancy & Consumer Protection
   Evaluating conversational AI safety failures by measuring harmful affirmation and alignment driven user validation.
 
-· Psychological Loops → ML Mapping
+· Psychological Loops - ML Mapping
   Translating psychological feedback loops into machine learning abstractions for computational modeling and AI safety analysis.
 
-· NASS — Neural Attachment State System
+· NASS - Neural Attachment State System
   Designing a privacy first wearable system for real time physiological state detection and adaptive micro interventions.
 
 · Non Invasive BP Monitoring for Animals
@@ -51,49 +51,51 @@
 
 ### Highlighted Features
 
-* [**OAS Scholarship — official results**](https://www.oas.org/en/scholarships/PAEC/2023/2023%20OAS%20-%20CSU-%20Result.pdf) — competitive international scholarship (OAS/CSU, 2023)
-* [**Snow Laboratory personnel, CSU**](https://www.engr.colostate.edu/~cdasnow/snowlab_personnel.shtml) — listed lab member; crystal-growth research presented at the Scott Undergraduate Research Symposium
-* [**Range of Motion Project — 2023 Impact Report**](https://rompglobal.org/wp-content/uploads/2025/12/2023-Impact-Report.pdf) — prosthetics volunteer, Ecuador
-* [**CSEC SBA Samples (2019)**](https://hfccsba.yolasite.com/resources/CSEC%20SBA%20SAMPLES%202019.pdf) — early academic work selected as an exemplar
+```text
+· OAS Scholarship - official results - competitive international scholarship (OAS/CSU, 2023)
+· Snow Laboratory personnel, CSU - listed lab member; crystal-growth research presented at the Scott Undergraduate Research Symposium
+· Range of Motion Project - 2023 Impact Report - prosthetics volunteer, Ecuador
+· CSEC SBA Samples (2019) - early academic work selected as an exemplar
+```
 
 ### Repositories
 
 ```text
-· Repos ─────────────────────────────────────────────────────────────────────
-· Vault ....................... research knowledge base — current research,
+· Repos ---------------------------------------------------------------------
+· Vault ....................... research knowledge base - current research,
 ·                               projects, archived work, deliverables
-· whispertranscription ........ Python SRT caption cleaner — fuzzy-matches
+· whispertranscription ........ Python SRT caption cleaner - fuzzy-matches
 ·                               captions vs. reference script + name list
-· whispertranscriptioncont .... OpenAI Whisper pipeline — 25GB+ videos,
+· whispertranscriptioncont .... OpenAI Whisper pipeline - 25GB+ videos,
 ·                               GPU/CPU auto-detect, SRT/TXT/JSON out
 · pacman ...................... HTML5 Canvas web game w/ per-ghost AI,
 ·                               plus Python curses terminal version
 · parkoursimulator ............ "Daniel's World" Pygame physics platformer
-· bulkdatagenerator ........... survey data → branded PowerPoint generator
+· bulkdatagenerator ........... survey data - branded PowerPoint generator
 · autohotkeyscripts ........... Windows productivity hotkey system
-─────────────────────────────────────────────────────────────────────────────
+---------------------------------------------------------------------
 ```
 
 ### Experience
 
 ```text
-· Timeline ──────────────────────────────────────────────────────────────────
-· 2026–now ... AI Safety Research & Business Operations
-· 2025–26 .... Algoverse AI Academy — Remote Research Intern
-· 2025 ....... PLD Reliability & Maintenance Eng. — Research Intern (Jamaica)
-· 2025 ....... ISAAC of Northern Colorado — Remote Research Fellow
-· 2024 ....... UCHealth Medical Center — Engineering Clinical Immersion
-· 2022–24 .... Snow Laboratory, CSU — Undergraduate Researcher
-· 2022–24 .... BioMARC — QA/Document Control (cGMP)
+· Timeline -----------------------------------------------------------------
+· 2026-now ... AI Safety Research & Business Operations
+· 2025-26 .... Algoverse AI Academy - Remote Research Intern
+· 2025 ....... PLD Reliability & Maintenance Eng. - Research Intern (Jamaica)
+· 2025 ....... ISAAC of Northern Colorado - Remote Research Fellow
+· 2024 ....... UCHealth Medical Center - Engineering Clinical Immersion
+· 2022-24 .... Snow Laboratory, CSU - Undergraduate Researcher
+· 2022-24 .... BioMARC - QA/Document Control (cGMP)
 . 2022 ....... Engineering Math
-─────────────────────────────────────────────────────────────────────────────
+---------------------------------------------------------------------
 ```
 
 <p align="center">Full detail on my resume · timeline on <a href="https://www.linkedin.com/in/ashanna-narrie-107a78313/">LinkedIn</a></p>
 
 ---
 
-<p align="center"><sub>This profile is my personal site — current work lives in the repos, research lives in the <a href="https://github.com/ashannanarrie/Vault">Vault</a>, experience detail lives on the resume and <a href="https://www.linkedin.com/in/ashanna-narrie-107a78313/">LinkedIn</a>.</sub></p>
+<p align="center"><sub>This profile is my personal site - current work lives in the repos, research lives in the <a href="https://github.com/ashannanarrie/Vault">Vault</a>, experience detail lives on the resume and <a href="https://www.linkedin.com/in/ashanna-narrie-107a78313/">LinkedIn</a>.</sub></p>
 
 <div align="center">
 <pre>
