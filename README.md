@@ -49,13 +49,6 @@
 **Future Direction: A Lot of in-progress ideas!**
 ```
 
-### Highlighted Features
-
-* [**OAS Scholarship - official results**](https://www.oas.org/en/scholarships/PAEC/2023/2023%20OAS%20-%20CSU-%20Result.pdf) - competitive international scholarship (OAS/CSU, 2023)
-* [**Snow Laboratory personnel, CSU**](https://www.engr.colostate.edu/~cdasnow/snowlab_personnel.shtml) - listed lab member; crystal-growth research presented at the Scott Undergraduate Research Symposium
-* [**Range of Motion Project - 2023 Impact Report**](https://rompglobal.org/wp-content/uploads/2025/12/2023-Impact-Report.pdf) - prosthetics volunteer, Ecuador
-* [**CSEC SBA Samples (2019)**](https://hfccsba.yolasite.com/resources/CSEC%20SBA%20SAMPLES%202019.pdf) - early academic work selected as an exemplar
-
 ### Repositories
 
 ```text
@@ -88,6 +81,13 @@
 . 2022 ....... Engineering Math
 ---------------------------------------------------------------------
 ```
+
+### Highlighted Features
+
+* [**OAS Scholarship - official results**](https://www.oas.org/en/scholarships/PAEC/2023/2023%20OAS%20-%20CSU-%20Result.pdf) - competitive international scholarship (OAS/CSU, 2023)
+* [**Snow Laboratory personnel, CSU**](https://www.engr.colostate.edu/~cdasnow/snowlab_personnel.shtml) - listed lab member; crystal-growth research presented at the Scott Undergraduate Research Symposium
+* [**Range of Motion Project - 2023 Impact Report**](https://rompglobal.org/wp-content/uploads/2025/12/2023-Impact-Report.pdf) - prosthetics volunteer, Ecuador
+* [**CSEC SBA Samples (2019)**](https://hfccsba.yolasite.com/resources/CSEC%20SBA%20SAMPLES%202019.pdf) - early academic work selected as an exemplar
 
 <p align="center">Full detail on my resume · timeline on <a href="https://www.linkedin.com/in/ashanna-narrie-107a78313/">LinkedIn</a></p>
 
