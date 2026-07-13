@@ -33,21 +33,28 @@
 
 ### Current Research — [Vault](https://github.com/ashannanarrie/Vault)
 
-| Topic | Overview |
-|---|---|
-| [Sycophancy & Consumer Protection](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/sycophancy-consumer-protection.md) | Evaluating conversational AI safety failures by measuring harmful affirmation and alignment driven user validation. |
-| [Psychological Loops → ML Mapping](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/psychological-loops-ml-mapping.md) | Translating psychological feedback loops into machine learning abstractions for computational modeling and AI safety analysis. |
-| [NASS — Neural Attachment State System](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/nass-overview.md) | Designing a privacy first wearable system for real time physiological state detection and adaptive micro interventions. |
-| Non Invasive BP Monitoring for Animals | Physics informed modeling research with Colorado State University focused on non invasive biomedical sensing. |
+```text
+· Sycophancy & Consumer Protection
+  Evaluating conversational AI safety failures by measuring harmful affirmation and alignment driven user validation.
 
-**Future Direction: A Lot of in-progress ideas!****
+· Psychological Loops → ML Mapping
+  Translating psychological feedback loops into machine learning abstractions for computational modeling and AI safety analysis.
+
+· NASS — Neural Attachment State System
+  Designing a privacy first wearable system for real time physiological state detection and adaptive micro interventions.
+
+· Non Invasive BP Monitoring for Animals
+  Physics informed modeling research with Colorado State University focused on non invasive biomedical sensing.
+
+**Future Direction: A Lot of in-progress ideas!**
+```
 
 ### Highlighted Features
 
-- <sub>[**OAS Scholarship — official results**](https://www.oas.org/en/scholarships/PAEC/2023/2023%20OAS%20-%20CSU-%20Result.pdf) — competitive international scholarship (OAS/CSU, 2023)</sub>
-- <sub>[**Snow Laboratory personnel, CSU**](https://www.engr.colostate.edu/~cdasnow/snowlab_personnel.shtml) — listed lab member; crystal-growth research presented at the Scott Undergraduate Research Symposium</sub>
-- <sub>[**Range of Motion Project — 2023 Impact Report**](https://rompglobal.org/wp-content/uploads/2025/12/2023-Impact-Report.pdf) — prosthetics volunteer, Ecuador</sub>
-- <sub>[**CSEC SBA Samples (2019)**](https://hfccsba.yolasite.com/resources/CSEC%20SBA%20SAMPLES%202019.pdf) — early academic work selected as an exemplar</sub>
+* [**OAS Scholarship — official results**](https://www.oas.org/en/scholarships/PAEC/2023/2023%20OAS%20-%20CSU-%20Result.pdf) — competitive international scholarship (OAS/CSU, 2023)
+* [**Snow Laboratory personnel, CSU**](https://www.engr.colostate.edu/~cdasnow/snowlab_personnel.shtml) — listed lab member; crystal-growth research presented at the Scott Undergraduate Research Symposium
+* [**Range of Motion Project — 2023 Impact Report**](https://rompglobal.org/wp-content/uploads/2025/12/2023-Impact-Report.pdf) — prosthetics volunteer, Ecuador
+* [**CSEC SBA Samples (2019)**](https://hfccsba.yolasite.com/resources/CSEC%20SBA%20SAMPLES%202019.pdf) — early academic work selected as an exemplar
 
 ### Repositories
 
