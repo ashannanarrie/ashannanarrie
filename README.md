@@ -31,7 +31,7 @@
 ─────────────────────────────────────────────────────────────────────────────
 ```
 
-### Current Research — [Vault](https://github.com/ashannanarrie/Vault)
+### Current Research: [Vault](https://github.com/ashannanarrie/Vault)
 
 ```text
 · Sycophancy & Consumer Protection
