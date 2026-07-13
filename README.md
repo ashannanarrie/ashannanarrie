@@ -16,7 +16,7 @@
 ·                 B.S. Information Technology, AI concentration (Strayer)
 
 · Focus ─────────────────────────────────────────────────────────────────────
-· Research: ..... AI Safety — sycophancy & consumer protection,
+· Research: ..... AI Safety: sycophancy & consumer protection,
 ·                 psychological loops as ML variables, NASS closed-loop
 ·                 regulation, non-invasive BP monitoring
 · Background: ... biomedical research, cGMP quality systems,
@@ -33,12 +33,12 @@
 
 ### Current Research — [Vault](https://github.com/ashannanarrie/Vault)
 
-| Topic | One-liner |
+| Topic | Overview |
 |---|---|
-| <sub>[Sycophancy & Consumer Protection](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/sycophancy-consumer-protection.md)</sub> | <sub>Measuring how alignment data teaches models to affirm harmful beliefs — proposed *Harmful Affirmation Rate* study</sub> |
-| <sub>[Psychological Loops → ML Mapping](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/psychological-loops-ml-mapping.md)</sub> | <sub>Trauma as predictive-coding error, stuck states as local minima; LLMs as analytical instruments + their failure modes</sub> |
-| <sub>[NASS — Neural Attachment State System](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/nass-overview.md)</sub> | <sub>Closed-loop wearable detecting attachment/dysregulation states from HRV-first biometrics; pre-registered n=1 pilot</sub> |
-| <sub>BIOM 476 — Non-Invasive BP Monitoring for Animals</sub> | <sub>Physics-informed modeling research with Colorado State University — paper in progress</sub> |
+| [Sycophancy & Consumer Protection](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/sycophancy-consumer-protection.md) | Evaluating conversational AI safety failures by measuring harmful affirmation and alignment driven user validation. |
+| [Psychological Loops → ML Mapping](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/psychological-loops-ml-mapping.md) | Translating psychological feedback loops into machine learning abstractions for computational modeling and AI safety analysis. |
+| [NASS — Neural Attachment State System](https://github.com/ashannanarrie/Vault/blob/main/current%20research/ai-safety/nass-overview.md) | Designing a privacy first wearable system for real time physiological state detection and adaptive micro interventions. |
+| Non Invasive BP Monitoring for Animals | Physics informed modeling research with Colorado State University focused on non invasive biomedical sensing. |
 
 **Future Direction: A Lot of in-progress ideas!****
 
