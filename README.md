@@ -16,9 +16,9 @@
 ·                 B.S. Information Technology, AI concentration (Strayer)
 
 · Focus ---------------------------------------------------------------------
-· Research: ..... AI Safety: sycophancy & consumer protection,
-·                 psychological loops as ML variables, NASS closed-loop
-·                 regulation, non-invasive BP monitoring
+· Research
+. Interests: .... AI Safety: Sycophancy & Consumer protection,
+·                 Computational Neuroscience, AI & Mental Health, Autonomous Systems 
 · Background: ... biomedical research, cGMP quality systems,
 ·                 accessibility automation, multidisciplinary risk assessment
 · Languages: .... Python, R, JavaScript
